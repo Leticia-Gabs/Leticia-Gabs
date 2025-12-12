@@ -2,9 +2,9 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **Cesar School** (4º período).
 <br>
-Focada em desenvolvimento de software com ênfase em **Node.js**.
 
----
+
+
 
 <div align="center">
 
@@ -38,11 +38,11 @@ Focada em desenvolvimento de software com ênfase em **Node.js**.
 
 </div>
 
----
+
 
 <div align="center">
 
-  ## 📫 Contato
+  ## Contato
 
   <a href="https://www.linkedin.com/in/letigabriella" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%237B1FA2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
@@ -53,6 +53,5 @@ Focada em desenvolvimento de software com ênfase em **Node.js**.
 
   <br /> <br />
 
-  <img src="https://visitor-badge.laobi.io/badge?page_id=Leticia-Gabs.Leticia-Gabs" alt="visitantes" />
 
 </div>
